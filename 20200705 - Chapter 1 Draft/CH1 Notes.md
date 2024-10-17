@@ -1,0 +1,11 @@
+- Continue to refine text and add footnotes
+- Break up larger sections into smaller sub-sections
+- Use continuous mode to read in sequence
+- Ongoing shuffling and editing
+- Continue building up deep map notes
+- Begin mapping notes to depths
+- Plot out depth chart
+- Create accompanying Zotero bibliography
+- Use pandoc to run off copies of work in sequence
+- Continue to add material do design notes for deep mapping items
+- Begin using Juncture editing tool to assemble late stage drafts
