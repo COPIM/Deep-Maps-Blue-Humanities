@@ -1,6 +1,6 @@
 As Serpil Oppermann has pointed out, the vocabular of Western oceanography alienates the surface world from the depths:
 
-	Consider the terms “littoral,” “pelagic,” and “benthic,” enough to create a mental barrier let alone physical distance. But we need a different distancing today, to estrange ourselves, our mental ways, and even our theories, from familiar territories, to defamiliarize our habits of worlding.[^1] 
+> Consider the terms “littoral,” “pelagic,” and “benthic,” enough to create a mental barrier let alone physical distance. But we need a different distancing today, to estrange ourselves, our mental ways, and even our theories, from familiar territories, to defamiliarize our habits of worlding.[^1] 
 
 Gazing into the depths with this mentality generates an abyss, a lacuna, a darkness. It becomes a place that is not, and can never be, home. Once this epistemic world is entered, the only possible way to dispel the darkness and end the anxiety - heightened in a time of runaway ocean acidification and heating - is to lay it bare, to understand all and see all with a god's eye view. If cartography is argument rather than representation, then the drive to make the ocean familiar is an argument for why there can never be any other mode of interpretation. The epistemic hostility to the withdrawn, hyberobjective and potently excessive ocean can only find expression through technology, a machine eye more perfect than ours that never sleeps and never suffers from the frailties of the human body at depth. 
 
@@ -8,7 +8,7 @@ The method of deep mapping becomes a radical practice to recover in the face of 
 
 The answer, as Oppermann sees it, is to make use of human creativity, in all of its diversity, to mediate between the social and the nature through technology:
 
-	If we accept the view that wet matter has an expressive agentic capacity with a signifying power ingrained in its aquatic entities whose meanings are deeply interlaced with human imagination via our literary traditions, then we come to realize that narrative, to borrow Roland Barthes’s words, “is simply there, like life itself” (1977, 79). Storied water, in this regard, becomes the fluid ground on which the imaginary and the actual intersect in real and symbolic contexts.[^2]
+> If we accept the view that wet matter has an expressive agentic capacity with a signifying power ingrained in its aquatic entities whose meanings are deeply interlaced with human imagination via our literary traditions, then we come to realize that narrative, to borrow Roland Barthes’s words, “is simply there, like life itself” (1977, 79). Storied water, in this regard, becomes the fluid ground on which the imaginary and the actual intersect in real and symbolic contexts.[^2]
 
 This book, like Oppermann's, is embedded with a diffuse and interlaced substrate of expressive and often paradoxical agencies. The ocean is not a *plenum*. a full thing, but instead contains an endless capacity to record and remember, although not always in the form that humanity might expect.[^3] It returns echoes and memories and shadows and phantoms from the inscrutable core at its heart. Depth hides an excess of meaning, and so does a deep map. 
 
