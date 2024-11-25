@@ -20,7 +20,7 @@ This page invites you to add a title which should be a short summary of your com
 
 To log a comment about a specific line of text, click on 'Code' while reading one of the paragraphs to bring up the code view. Click on the '...' button that appears to the left of the line of text that you want to comment on and select 'Reference in new issue' in the dropdown menu that appears. 
 
-![screenshot of the code view of a file in GitHub](https://github.com/COPIM/Deep-Maps-Blue-Humanities/blob/main/peer_review/Screenshot%202024-11-25%20at%2014.37.53.png)
+![screenshot of the code view of a file in GitHub](https://github.com/COPIM/Deep-Maps-Blue-Humanities/blob/main/peer_review/Screenshot%202024-11-25%20at%2015.58.43.png)
 
 This will automatically take you to the new issue form and prepopulate the description with a hyperlink to the specific line you wish to comment on. 
 
@@ -30,4 +30,4 @@ You can also use the same dropdown menu to 'Copy permalink' to get a hyperlink t
 
 We are also experimenting with using labels to tag peer review comments. When logging an issue, click on 'Labels' to show the list of existing labels. You can either use one or more of these labels or click on 'Edit labels' to add a new label. 
 
-![screenshot of the GitHub issue page and adding a label](https://github.com/COPIM/Deep-Maps-Blue-Humanities/blob/main/peer_review/Screenshot%202024-11-25%20at%2015.58.43.png)
+![screenshot of the GitHub issue page and adding a label](https://github.com/COPIM/Deep-Maps-Blue-Humanities/blob/main/peer_review/Screenshot%202024-11-25%20at%2014.37.53.png)
