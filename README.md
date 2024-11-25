@@ -2,7 +2,7 @@
 
 As part of the Open Book Futures Experimental Publishing Group's pilot project around *Deep Maps: Blue Humanities*, we are experimenting with using GitHub for peer review. This REVIEWME file contains instructions and recommendations for this peer review process. This is an experimental and evolving process so please treat these instructions as a guide rather than a rigid set of rules. 
 
-![screenshot of the GitHub issues page](peer_review/Screenshot 2024-11-25 at 14.02.18.png)
+![screenshot of the GitHub issues page](/peer_review/Screenshot 2024-11-25 at 14.02.18.png)
 
 We are using GitHub issues for peer review as a replacement for the annotations or comments that would form the basis of a peer review using a traditional Microsoft Word-bound peer review. The GitHub interface allows a user to log a new issue on whatever aspect of the repository that they want in a free-text field that supports Markdown and the attaching of files like screenshot images. 
 
