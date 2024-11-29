@@ -34,6 +34,6 @@ We are also experimenting with using labels to tag peer review issues. When logg
 
 ![screenshot of the GitHub issue page and adding a label](https://github.com/COPIM/Deep-Maps-Blue-Humanities/blob/main/peer_review/Screenshot%202024-11-25%20at%2014.37.53.png)
 
-## adding a comment
+## Commeting, on a comment, on a commment...
 
 You can also comment on existing peer review issues. Click on an open issue and scroll down to find the 'Add a comment' box. You can type whatever comment you want to make and click 'Comment' to add your comment. We find commenting on comments both productive and satisfying way of bringing the spirit of deep mapping to peer reviewing.
