@@ -36,4 +36,4 @@ We are also experimenting with using labels to tag peer review issues. When logg
 
 ## adding a comment
 
-You can also comment on existing peer review issues. Click on an open issue and scroll down to find the 'Add a comment' box. You can type whatever comment you want to make and click 'Comment' to add your comment. 
+You can also comment on existing peer review issues. Click on an open issue and scroll down to find the 'Add a comment' box. You can type whatever comment you want to make and click 'Comment' to add your comment. We find commenting on comments both productive and satisfying way of bringing the spirit of deep mapping to peer reviewing.
