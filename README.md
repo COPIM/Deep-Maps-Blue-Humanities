@@ -34,6 +34,8 @@ We are also experimenting with using labels to tag peer review issues. When logg
 
 ![screenshot of the GitHub issue page and adding a label](https://github.com/COPIM/Deep-Maps-Blue-Humanities/blob/main/peer_review/Screenshot%202024-11-25%20at%2014.37.53.png)
 
+Labels will allow peer reviewers to distinguish between types of comments i.e. whether they apply to content of the text or to styling of the book, whether they ask a question rather than supply a comment, whether they refer to a single chapter or to the book as a whole.
+
 ## commenting on a comment on a comment...
 
 You can also comment on existing peer review issues. Click on an open issue and scroll down to find the 'Add a comment' box. You can type whatever comment you want to make and click 'Comment' to add your comment. We find commenting on comments both productive and satisfying way of bringing the spirit of deep mapping to peer reviewing.
